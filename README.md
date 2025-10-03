@@ -11,3 +11,7 @@ python playwright_scraper.py
 ```
 
 it returns a csv containing details about team, map won, overall won, team winning winrate and format
+
+examples :
+
+i scraped the valorant championship 2025 scores in csv format.
