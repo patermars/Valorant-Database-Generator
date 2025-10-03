@@ -1,0 +1,33 @@
+match_id,date,event_name,event_series,patch,team1,team2,team1_score,team2_score,winner,format,team1_recent_winrate,team2_recent_winrate
+542195,2025-09-12 09:00:00,,,,Paper Rex,Xi Lai Gaming,2,0,1,Bo3,0.8,0.2
+542196,2025-09-12 11:25:00,,,,GIANTX,Sentinels,2,1,1,Bo3,0.6,0.6
+542207,2025-09-13 09:00:00,,,,NRG,EDward Gaming,2,0,1,Bo3,0.6,0.6
+542205,2025-09-13 11:55:00,,,,Team Liquid,DRX,0,2,2,Bo3,0.8,0.6
+542212,2025-09-14 09:00:00,,,,Dragon Ranger Gaming,T1,0,2,2,Bo3,0.6,0.6
+542211,2025-09-14 12:20:00,,,,G2 Esports,Team Heretics,0,2,2,Bo3,1.0,0.6
+542200,2025-09-15 09:00:00,,,,"Guangzhou Huadu Bilibili Gaming						
+							(Bilibili Gaming)",MIBR,0,2,2,Bo3,0.6,0.4
+542201,2025-09-15 11:10:00,,,,Rex Regum Qeon,FNATIC,0,2,2,Bo3,0.8,0.4
+542197,2025-09-17 09:00:00,,,,Paper Rex,GIANTX,2,1,1,Bo3,1.0,0.8
+542208,2025-09-17 12:10:00,,,,DRX,NRG,1,2,2,Bo3,0.6,0.8
+542213,2025-09-18 09:00:00,,,,Team Heretics,T1,2,0,1,Bo3,0.6,0.6
+542202,2025-09-18 11:25:00,,,,MIBR,FNATIC,1,2,2,Bo3,0.6,0.6
+542209,2025-09-19 09:00:00,,,,Team Liquid,EDward Gaming,2,1,1,Bo3,0.6,0.4
+542198,2025-09-19 12:30:00,,,,Xi Lai Gaming,Sentinels,2,1,1,Bo3,0.2,0.4
+542203,2025-09-20 09:00:00,,,,"Guangzhou Huadu Bilibili Gaming						
+							(Bilibili Gaming)",Rex Regum Qeon,1,2,2,Bo3,0.4,0.6
+542214,2025-09-20 12:00:00,,,,G2 Esports,Dragon Ranger Gaming,2,0,1,Bo3,0.8,0.4
+542210,2025-09-21 09:00:00,,,,DRX,Team Liquid,2,0,1,Bo3,0.4,0.8
+542199,2025-09-21 11:20:00,,,,GIANTX,Xi Lai Gaming,2,0,1,Bo3,0.6,0.4
+542215,2025-09-22 09:00:00,,,,T1,G2 Esports,0,2,2,Bo3,0.4,0.8
+542204,2025-09-22 11:15:00,,,,MIBR,Rex Regum Qeon,2,0,1,Bo3,0.6,0.6
+542265,2025-09-25 09:00:00,,,,Paper Rex,G2 Esports,2,1,1,Bo3,1.0,0.8
+542264,2025-09-25 12:50:00,,,,FNATIC,DRX,2,1,1,Bo3,0.6,0.4
+542266,2025-09-26 09:00:00,,,,Team Heretics,MIBR,0,2,2,Bo3,0.6,0.6
+542267,2025-09-26 11:35:00,,,,NRG,GIANTX,2,0,1,Bo3,0.8,0.6
+542273,2025-09-27 09:00:00,,,,DRX,G2 Esports,2,1,1,Bo3,0.4,0.6
+542274,2025-09-27 12:20:00,,,,Team Heretics,GIANTX,2,1,1,Bo3,0.4,0.4
+542268,2025-09-28 09:00:00,,,,FNATIC,Paper Rex,2,1,1,Bo3,0.8,1.0
+542269,2025-09-28 12:20:00,,,,MIBR,NRG,1,2,2,Bo3,0.8,0.8
+542277,2025-09-29 09:00:00,,,,Paper Rex,Team Heretics,2,1,1,Bo3,0.8,0.6
+542276,2025-09-29 12:20:00,,,,MIBR,DRX,1,2,2,Bo3,0.6,0.6

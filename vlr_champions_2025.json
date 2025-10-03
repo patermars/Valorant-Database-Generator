@@ -1,0 +1,3185 @@
+[
+  {
+    "url": "https://www.vlr.gg/542195/paper-rex-vs-xi-lai-gaming-valorant-champions-2025-opening-a",
+    "match_id": "542195",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Paper Rex",
+    "team2": "Xi Lai Gaming",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-12 09:00:00",
+    "picks_bans": "XLG ban Lotus; PRX ban Abyss; XLG pick Bind; PRX pick Sunset; XLG ban Corrode; PRX ban Haven; Ascent remains",
+    "betting_odds": {
+      "odds_source_1": "1.12"
+    },
+    "maps": [
+      {
+        "game_id": "233397"
+      },
+      {
+        "game_id": "233398"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/08/14",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/08",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "ZETA DIVISION",
+          "date": "2025/08/03",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "JDG Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "All Gamers",
+          "date": "2025/08/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/20",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/02",
+          "win": false
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "HERO ESPORTS ACL 25",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/05/15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a",
+    "match_id": "542196",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "GIANTX",
+    "team2": "Sentinels",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-12 11:25:00",
+    "picks_bans": "SEN ban Ascent; GX ban Lotus; SEN pick Corrode; GX pick Sunset; SEN ban Bind; GX ban Abyss; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "2.15",
+      "odds_source_2": "2.32"
+    },
+    "maps": [
+      {
+        "game_id": "233400"
+      },
+      {
+        "game_id": "233401"
+      },
+      {
+        "game_id": "233402"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Team Liquid",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "BBL Esports",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "FNATIC",
+          "date": "2025/08/24",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Liquid",
+          "date": "2025/08/22",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "NRG",
+          "date": "2025/08/30",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "G2 Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Cloud9",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "2Game Esports",
+          "date": "2025/08/16",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Evil Geniuses",
+          "date": "2025/08/09",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c",
+    "match_id": "542207",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "NRG",
+    "team2": "EDward Gaming",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-13 09:00:00",
+    "picks_bans": "EDG ban Lotus; NRG ban Sunset; EDG pick Abyss; NRG pick Corrode; EDG ban Ascent; NRG ban Bind; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "1.52",
+      "odds_source_2": "1.55"
+    },
+    "maps": [
+      {
+        "game_id": "233430"
+      },
+      {
+        "game_id": "233431"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "G2 Esports",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Cloud9",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LEVIATÁN",
+          "date": "2025/08/24",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "G2 Esports",
+          "date": "2025/08/22",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Nova Esports",
+          "date": "2025/08/28",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/23",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TYLOO",
+          "date": "2025/08/21",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Trace Esports",
+          "date": "2025/08/10",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542205/team-liquid-vs-drx-valorant-champions-2025-opening-c",
+    "match_id": "542205",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Team Liquid",
+    "team2": "DRX",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-13 11:55:00",
+    "picks_bans": "DRX ban Sunset; TL ban Haven; DRX pick Abyss; TL pick Bind; DRX ban Corrode; TL ban Ascent; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "2.92"
+    },
+    "maps": [
+      {
+        "game_id": "233427"
+      },
+      {
+        "game_id": "233428"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "BBL Esports",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/15",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "FNATIC",
+          "date": "2025/08/08",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/16",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/14",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Global Esports",
+          "date": "2025/08/09",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/02",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Secret",
+          "date": "2025/07/27",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d",
+    "match_id": "542212",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Dragon Ranger Gaming",
+    "team2": "T1",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-14 09:00:00",
+    "picks_bans": "DRG ban Bind; T1 ban Haven; DRG pick Lotus; T1 pick Sunset; DRG ban Abyss; T1 ban Corrode; Ascent remains",
+    "betting_odds": {
+      "odds_source_1": "1.50",
+      "odds_source_2": "1.48"
+    },
+    "maps": [
+      {
+        "game_id": "233445"
+      },
+      {
+        "game_id": "233446"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Titan Esports Club",
+          "date": "2025/08/28",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/08/20",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/09",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Nongshim RedForce",
+          "date": "2025/08/16",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/08/14",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/13",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "DetonatioN FocusMe",
+          "date": "2025/08/10",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d",
+    "match_id": "542211",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "G2 Esports",
+    "team2": "Team Heretics",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-14 12:20:00",
+    "picks_bans": "TH ban Abyss; G2 ban Sunset; TH pick Corrode; G2 pick Lotus; TH ban Bind; G2 ban Ascent; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "2.70",
+      "odds_source_2": "2.80"
+    },
+    "maps": [
+      {
+        "game_id": "233442"
+      },
+      {
+        "game_id": "233443"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "NRG",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Sentinels",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "NRG",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "100 Thieves",
+          "date": "2025/08/21",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Cloud9",
+          "date": "2025/08/17",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/14",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "FUT Esports",
+          "date": "2025/08/06",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Vitality",
+          "date": "2025/08/01",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "VCT 24: Masters Shanghai",
+        "score": "0\n\t\t\t\t\t\t\t\t3",
+        "date": "2024/06/08"
+      },
+      {
+        "event": "VCT 24: Masters Shanghai",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2024/06/02"
+      },
+      {
+        "event": "VCT 24: Masters Shanghai",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2024/05/25"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542200/bilibili-gaming-vs-mibr-valorant-champions-2025-opening-b",
+    "match_id": "542200",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
+    "team2": "MIBR",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-15 09:00:00",
+    "picks_bans": "BLG ban Abyss; MIBR ban Lotus; BLG pick Haven; MIBR pick Corrode; BLG ban Ascent; MIBR ban Bind; Sunset remains",
+    "betting_odds": {
+      "odds_source_1": "2.35",
+      "odds_source_2": "2.34"
+    },
+    "maps": [
+      {
+        "game_id": "233412"
+      },
+      {
+        "game_id": "233413"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Wolves Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/24",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/23",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "TYLOO",
+          "date": "2025/08/20",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LOUD",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/08/08",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "100 Thieves",
+          "date": "2025/08/02",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "LEVIATÁN",
+          "date": "2025/07/27",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "KRÜ Esports",
+          "date": "2025/07/19",
+          "win": false
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b",
+    "match_id": "542201",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Rex Regum Qeon",
+    "team2": "FNATIC",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-15 11:10:00",
+    "picks_bans": "FNC ban Sunset; RRQ ban Bind; FNC pick Ascent; RRQ pick Abyss; FNC ban Haven; RRQ ban Lotus; Corrode remains",
+    "betting_odds": {
+      "odds_source_1": "1.50",
+      "odds_source_2": "1.51"
+    },
+    "maps": [
+      {
+        "game_id": "233415"
+      },
+      {
+        "game_id": "233416"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Paper Rex",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "T1",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "DRX",
+          "date": "2025/08/16",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Gen.G",
+          "date": "2025/08/15",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "GIANTX",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/23",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/21",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Apeks",
+          "date": "2025/08/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Liquid",
+          "date": "2025/08/08",
+          "win": false
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Masters Toronto 2025",
+        "score": "1\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/06/15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542197/paper-rex-vs-giantx-valorant-champions-2025-winners-a",
+    "match_id": "542197",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Paper Rex",
+    "team2": "GIANTX",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-17 09:00:00",
+    "picks_bans": "GX ban Bind; PRX ban Corrode; GX pick Ascent; PRX pick Lotus; GX ban Abyss; PRX ban Haven; Sunset remains",
+    "betting_odds": {
+      "odds_source_1": "1.25",
+      "odds_source_2": "1.25"
+    },
+    "maps": [
+      {
+        "game_id": "233403"
+      },
+      {
+        "game_id": "233404"
+      },
+      {
+        "game_id": "233405"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/08/14",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/08",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Team Liquid",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "BBL Esports",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "FNATIC",
+          "date": "2025/08/24",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542208/drx-vs-nrg-valorant-champions-2025-winners-c",
+    "match_id": "542208",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "DRX",
+    "team2": "NRG",
+    "team1_score": 1,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-17 12:10:00",
+    "picks_bans": "DRX ban Sunset; NRG ban Abyss; DRX pick Haven; NRG pick Corrode; DRX ban Ascent; NRG ban Bind; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "2.00",
+      "odds_source_2": "1.95"
+    },
+    "maps": [
+      {
+        "game_id": "233433"
+      },
+      {
+        "game_id": "233434"
+      },
+      {
+        "game_id": "233435"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/16",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/14",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Global Esports",
+          "date": "2025/08/09",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/02",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "EDward Gaming",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "G2 Esports",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Cloud9",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LEVIATÁN",
+          "date": "2025/08/24",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "VCT 2023: Masters Tokyo",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2023/06/18"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542213/team-heretics-vs-t1-valorant-champions-2025-winners-d",
+    "match_id": "542213",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Team Heretics",
+    "team2": "T1",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-18 09:00:00",
+    "picks_bans": "TH ban Abyss; T1 ban Haven; TH pick Lotus; T1 pick Sunset; TH ban Bind; T1 ban Corrode; Ascent remains",
+    "betting_odds": {
+      "odds_source_1": "1.43"
+    },
+    "maps": [
+      {
+        "game_id": "233448"
+      },
+      {
+        "game_id": "233449"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "G2 Esports",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/14",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "FUT Esports",
+          "date": "2025/08/06",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Nongshim RedForce",
+          "date": "2025/08/16",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/08/14",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/13",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542202/mibr-vs-fnatic-valorant-champions-2025-winners-b",
+    "match_id": "542202",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "MIBR",
+    "team2": "FNATIC",
+    "team1_score": 1,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-18 11:25:00",
+    "picks_bans": "FNC ban Sunset; MIBR ban Lotus; FNC pick Bind; MIBR pick Abyss; FNC ban Corrode; MIBR ban Ascent; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "1.40"
+    },
+    "maps": [
+      {
+        "game_id": "233418"
+      },
+      {
+        "game_id": "233419"
+      },
+      {
+        "game_id": "233420"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LOUD",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/08/08",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "100 Thieves",
+          "date": "2025/08/02",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "LEVIATÁN",
+          "date": "2025/07/27",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "GIANTX",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/23",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/21",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Apeks",
+          "date": "2025/08/13",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c",
+    "match_id": "542209",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Team Liquid",
+    "team2": "EDward Gaming",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-19 09:00:00",
+    "picks_bans": "TL ban Haven; EDG ban Lotus; TL pick Sunset; EDG pick Abyss; TL ban Corrode; EDG ban Ascent; Bind remains",
+    "betting_odds": {
+      "odds_source_1": "1.43"
+    },
+    "maps": [
+      {
+        "game_id": "233436"
+      },
+      {
+        "game_id": "233437"
+      },
+      {
+        "game_id": "233438"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "DRX",
+          "date": "2025/09/13",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "BBL Esports",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/15",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/13",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Nova Esports",
+          "date": "2025/08/28",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/23",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TYLOO",
+          "date": "2025/08/21",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Masters Bangkok 2025",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/02/20"
+      },
+      {
+        "event": "AFTV Valorant League",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2023/12/08"
+      },
+      {
+        "event": "VCT 2023: Masters Tokyo",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2023/06/16"
+      },
+      {
+        "event": "VCT: Champions 2022",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2022/09/04"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a",
+    "match_id": "542198",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Xi Lai Gaming",
+    "team2": "Sentinels",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-19 12:30:00",
+    "picks_bans": "XLG ban Corrode; SEN ban Ascent; XLG pick Abyss; SEN pick Lotus; XLG ban Sunset; SEN ban Bind; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "3.80",
+      "odds_source_2": "3.80"
+    },
+    "maps": [
+      {
+        "game_id": "233406"
+      },
+      {
+        "game_id": "233407"
+      },
+      {
+        "game_id": "233408"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/12",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "JDG Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "All Gamers",
+          "date": "2025/08/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/20",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "GIANTX",
+          "date": "2025/09/12",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "NRG",
+          "date": "2025/08/30",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "G2 Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Cloud9",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "2Game Esports",
+          "date": "2025/08/16",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "EWC 2025",
+        "score": "1\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/07/09"
+      },
+      {
+        "event": "Masters Toronto 2025",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/06/13"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b",
+    "match_id": "542203",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
+    "team2": "Rex Regum Qeon",
+    "team1_score": 1,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-20 09:00:00",
+    "picks_bans": "RRQ ban Bind; BLG ban Corrode; RRQ pick Sunset; BLG pick Lotus; RRQ ban Ascent; BLG ban Haven; Abyss remains",
+    "betting_odds": {
+      "odds_source_1": "1.58",
+      "odds_source_2": "1.65"
+    },
+    "maps": [
+      {
+        "game_id": "233421"
+      },
+      {
+        "game_id": "233422"
+      },
+      {
+        "game_id": "233423"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "MIBR",
+          "date": "2025/09/15",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Wolves Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/24",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/23",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/08/22",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/15",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Paper Rex",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "T1",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "DRX",
+          "date": "2025/08/16",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542214/g2-esports-vs-dragon-ranger-gaming-valorant-champions-2025-elim-d",
+    "match_id": "542214",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "G2 Esports",
+    "team2": "Dragon Ranger Gaming",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-20 12:00:00",
+    "picks_bans": "DRG ban Bind; G2 ban Corrode; DRG pick Lotus; G2 pick Abyss; DRG ban Haven; G2 ban Sunset; Ascent remains",
+    "betting_odds": {
+      "odds_source_1": "1.13",
+      "odds_source_2": "1.12"
+    },
+    "maps": [
+      {
+        "game_id": "233451"
+      },
+      {
+        "game_id": "233452"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Heretics",
+          "date": "2025/09/14",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "NRG",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Sentinels",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "NRG",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "100 Thieves",
+          "date": "2025/08/21",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "T1",
+          "date": "2025/09/14",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Titan Esports Club",
+          "date": "2025/08/28",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/08/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/08/20",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542210/drx-vs-team-liquid-valorant-champions-2025-decider-c",
+    "match_id": "542210",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "DRX",
+    "team2": "Team Liquid",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-21 09:00:00",
+    "picks_bans": "TL ban Haven; DRX ban Sunset; TL pick Corrode; DRX pick Abyss; TL ban Lotus; DRX ban Ascent; Bind remains",
+    "betting_odds": {
+      "odds_source_1": "2.00",
+      "odds_source_2": "1.99"
+    },
+    "maps": [
+      {
+        "game_id": "233439"
+      },
+      {
+        "game_id": "233440"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/16",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/14",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Global Esports",
+          "date": "2025/08/09",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "EDward Gaming",
+          "date": "2025/09/19",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "DRX",
+          "date": "2025/09/13",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "BBL Esports",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/08/22",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Champions 2025",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/09/13"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a",
+    "match_id": "542199",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "GIANTX",
+    "team2": "Xi Lai Gaming",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-21 11:20:00",
+    "picks_bans": "XLG ban Sunset; GX ban Abyss; XLG pick Bind; GX pick Ascent; XLG ban Corrode; GX ban Haven; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "1.50",
+      "odds_source_2": "1.50"
+    },
+    "maps": [
+      {
+        "game_id": "233409"
+      },
+      {
+        "game_id": "233410"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Team Liquid",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "BBL Esports",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/29",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/09/19",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/12",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "JDG Esports",
+          "date": "2025/08/29",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "EDward Gaming",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "All Gamers",
+          "date": "2025/08/21",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542215/t1-vs-g2-esports-valorant-champions-2025-decider-d",
+    "match_id": "542215",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "T1",
+    "team2": "G2 Esports",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-22 09:00:00",
+    "picks_bans": "G2 ban Bind; T1 ban Abyss; G2 pick Lotus; T1 pick Corrode; G2 ban Ascent; T1 ban Haven; Sunset remains",
+    "betting_odds": {
+      "odds_source_1": "1.22",
+      "odds_source_2": "1.26"
+    },
+    "maps": [
+      {
+        "game_id": "233454"
+      },
+      {
+        "game_id": "233455"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Heretics",
+          "date": "2025/09/18",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Nongshim RedForce",
+          "date": "2025/08/16",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/08/14",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/09/20",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Heretics",
+          "date": "2025/09/14",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "NRG",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Sentinels",
+          "date": "2025/08/29",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "NRG",
+          "date": "2025/08/22",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Masters Bangkok 2025",
+        "score": "3\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/03/02"
+      },
+      {
+        "event": "Red Bull HG #5",
+        "score": "1\n\t\t\t\t\t\t\t\t0",
+        "date": "2024/11/21"
+      },
+      {
+        "event": "VCT 24: Masters Shanghai",
+        "score": "1\n\t\t\t\t\t\t\t\t2",
+        "date": "2024/05/23"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542204/mibr-vs-rex-regum-qeon-valorant-champions-2025-decider-b",
+    "match_id": "542204",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "MIBR",
+    "team2": "Rex Regum Qeon",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-22 11:15:00",
+    "picks_bans": "RRQ ban Bind; MIBR ban Lotus; RRQ pick Corrode; MIBR pick Abyss; RRQ ban Sunset; MIBR ban Ascent; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "1.75",
+      "odds_source_2": "1.71"
+    },
+    "maps": [
+      {
+        "game_id": "233424"
+      },
+      {
+        "game_id": "233425"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/18",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LOUD",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/08/08",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "100 Thieves",
+          "date": "2025/08/02",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/20",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/15",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Paper Rex",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "T1",
+          "date": "2025/08/17",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf",
+    "match_id": "542265",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Paper Rex",
+    "team2": "G2 Esports",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-25 09:00:00",
+    "picks_bans": "PRX ban Abyss; G2 ban Bind; PRX pick Lotus; G2 pick Corrode; PRX ban Haven; G2 ban Sunset; Ascent remains",
+    "betting_odds": {
+      "odds_source_1": "1.68",
+      "odds_source_2": "1.73"
+    },
+    "maps": [
+      {
+        "game_id": "233460"
+      },
+      {
+        "game_id": "233461"
+      },
+      {
+        "game_id": "233462"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/09/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/08/14",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/09/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/09/20",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Heretics",
+          "date": "2025/09/14",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "NRG",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Sentinels",
+          "date": "2025/08/29",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Masters Toronto 2025",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/06/13"
+      },
+      {
+        "event": "VCT 2024: Champions",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2024/08/04"
+      },
+      {
+        "event": "VCT 24: Masters Shanghai",
+        "score": "1\n\t\t\t\t\t\t\t\t2",
+        "date": "2024/05/31"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542264/fnatic-vs-drx-valorant-champions-2025-ubqf",
+    "match_id": "542264",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "FNATIC",
+    "team2": "DRX",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-25 12:50:00",
+    "picks_bans": "DRX ban Sunset; FNC ban Abyss; DRX pick Haven; FNC pick Ascent; DRX ban Bind; FNC ban Corrode; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "1.58",
+      "odds_source_2": "1.60"
+    },
+    "maps": [
+      {
+        "game_id": "233457"
+      },
+      {
+        "game_id": "233458"
+      },
+      {
+        "game_id": "233459"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "MIBR",
+          "date": "2025/09/18",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "GIANTX",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/23",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/21",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/16",
+          "win": false
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "TALON",
+          "date": "2025/08/14",
+          "win": false
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "VCT 2024: Champions",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2024/08/06"
+      },
+      {
+        "event": "Red Bull HG #4",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2023/11/04"
+      },
+      {
+        "event": "VCT 2023: Champions",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2023/08/20"
+      },
+      {
+        "event": "VCT: Champions 2022",
+        "score": "1\n\t\t\t\t\t\t\t\t2",
+        "date": "2022/09/13"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf",
+    "match_id": "542266",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Team Heretics",
+    "team2": "MIBR",
+    "team1_score": 0,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-26 09:00:00",
+    "picks_bans": "MIBR ban Lotus; TH ban Abyss; MIBR pick Corrode; TH pick Sunset; MIBR ban Ascent; TH ban Bind; Haven remains",
+    "betting_odds": {
+      "odds_source_1": "2.35",
+      "odds_source_2": "2.40"
+    },
+    "maps": [
+      {
+        "game_id": "233463"
+      },
+      {
+        "game_id": "233464"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/09/18",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "G2 Esports",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/22",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/08/14",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/22",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/18",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LOUD",
+          "date": "2025/08/17",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/08/08",
+          "win": false
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542267/nrg-vs-giantx-valorant-champions-2025-ubqf",
+    "match_id": "542267",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "NRG",
+    "team2": "GIANTX",
+    "team1_score": 2,
+    "team2_score": 0,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-26 11:35:00",
+    "picks_bans": "GX ban Corrode; NRG ban Sunset; GX pick Haven; NRG pick Lotus; GX ban Bind; NRG ban Ascent; Abyss remains",
+    "betting_odds": {
+      "odds_source_1": "1.52",
+      "odds_source_2": "1.51"
+    },
+    "maps": [
+      {
+        "game_id": "233466"
+      },
+      {
+        "game_id": "233467"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "DRX",
+          "date": "2025/09/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "EDward Gaming",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "G2 Esports",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/08/30",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Cloud9",
+          "date": "2025/08/29",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Team Liquid",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "BBL Esports",
+          "date": "2025/08/30",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542273/drx-vs-g2-esports-valorant-champions-2025-lr1",
+    "match_id": "542273",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "DRX",
+    "team2": "G2 Esports",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-27 09:00:00",
+    "picks_bans": "G2 ban Haven; DRX ban Sunset; G2 pick Lotus; DRX pick Abyss; G2 ban Ascent; DRX ban Corrode; Bind remains",
+    "betting_odds": {
+      "odds_source_1": "3.10",
+      "odds_source_2": "3.25"
+    },
+    "maps": [
+      {
+        "game_id": "233483"
+      },
+      {
+        "game_id": "233484"
+      },
+      {
+        "game_id": "233485"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/25",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/16",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/25",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/09/22",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Dragon Ranger Gaming",
+          "date": "2025/09/20",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Team Heretics",
+          "date": "2025/09/14",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t0",
+          "opponent": "NRG",
+          "date": "2025/08/31",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  },
+  {
+    "url": "https://www.vlr.gg/542274/team-heretics-vs-giantx-valorant-champions-2025-lr1",
+    "match_id": "542274",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Team Heretics",
+    "team2": "GIANTX",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-27 12:20:00",
+    "picks_bans": "GX ban Corrode; TH ban Abyss; GX pick Ascent; TH pick Lotus; GX ban Haven; TH ban Sunset; Bind remains",
+    "betting_odds": {
+      "odds_source_1": "1.32",
+      "odds_source_2": "1.36"
+    },
+    "maps": [
+      {
+        "game_id": "233486"
+      },
+      {
+        "game_id": "233487"
+      },
+      {
+        "game_id": "233488"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "MIBR",
+          "date": "2025/09/26",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/09/18",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "G2 Esports",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "BBL Esports",
+          "date": "2025/08/22",
+          "win": false
+        }
+      ],
+      "team2": [
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/26",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Paper Rex",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "Team Liquid",
+          "date": "2025/08/31",
+          "win": false
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "VCT 25: EMEA Stage 2",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/08/14"
+      },
+      {
+        "event": "VCT 25: EMEA Stage 1",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2025/04/03"
+      },
+      {
+        "event": "VCT 24: EMEA Stage 2",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2024/07/03"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf",
+    "match_id": "542268",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "FNATIC",
+    "team2": "Paper Rex",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-28 09:00:00",
+    "picks_bans": "PRX ban Abyss; FNC ban Sunset; PRX pick Bind; FNC pick Haven; PRX ban Ascent; FNC ban Corrode; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "2.90",
+      "odds_source_2": "3.50"
+    },
+    "maps": [
+      {
+        "game_id": "233469"
+      },
+      {
+        "game_id": "233470"
+      },
+      {
+        "game_id": "233471"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "DRX",
+          "date": "2025/09/25",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "MIBR",
+          "date": "2025/09/18",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "GIANTX",
+          "date": "2025/08/24",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Karmine Corp",
+          "date": "2025/08/23",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "G2 Esports",
+          "date": "2025/09/25",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/09/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/31",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "TALON",
+          "date": "2025/08/17",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "EWC 2025",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2025/07/12"
+      },
+      {
+        "event": "Masters Toronto 2025",
+        "score": "1\n\t\t\t\t\t\t\t\t3",
+        "date": "2025/06/22"
+      },
+      {
+        "event": "VCT 2023: Masters Tokyo",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2023/06/19"
+      },
+      {
+        "event": "VCT Masters: Copenhagen",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2022/07/17"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542269/mibr-vs-nrg-valorant-champions-2025-ubsf",
+    "match_id": "542269",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "MIBR",
+    "team2": "NRG",
+    "team1_score": 1,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-28 12:20:00",
+    "picks_bans": "MIBR ban Lotus; NRG ban Sunset; MIBR pick Abyss; NRG pick Haven; MIBR ban Ascent; NRG ban Bind; Corrode remains",
+    "betting_odds": {
+      "odds_source_1": "1.72",
+      "odds_source_2": "1.72"
+    },
+    "maps": [
+      {
+        "game_id": "233472"
+      },
+      {
+        "game_id": "233473"
+      },
+      {
+        "game_id": "233474"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Heretics",
+          "date": "2025/09/26",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/22",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/18",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/15",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "LOUD",
+          "date": "2025/08/17",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "GIANTX",
+          "date": "2025/09/26",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "DRX",
+          "date": "2025/09/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "EDward Gaming",
+          "date": "2025/09/13",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t3",
+          "opponent": "G2 Esports",
+          "date": "2025/08/31",
+          "win": false
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Sentinels",
+          "date": "2025/08/30",
+          "win": true
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "VCT 25: AMER Stage 2",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/08/08"
+      },
+      {
+        "event": "EWC 2025",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2025/05/23"
+      },
+      {
+        "event": "VCT 25: AMER Stage 1",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/04/13"
+      },
+      {
+        "event": "VCT 24: AMER Stage 1",
+        "score": "0\n\t\t\t\t\t\t\t\t2",
+        "date": "2024/04/23"
+      },
+      {
+        "event": "VCT 2023: Americas",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2023/04/15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2",
+    "match_id": "542277",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "Paper Rex",
+    "team2": "Team Heretics",
+    "team1_score": 2,
+    "team2_score": 1,
+    "winner": 1,
+    "format": "Bo3",
+    "date": "2025-09-29 09:00:00",
+    "picks_bans": "TH ban Sunset; PRX ban Haven; TH pick Ascent; PRX pick Bind; TH ban Abyss; PRX ban Corrode; Lotus remains",
+    "betting_odds": {
+      "odds_source_1": "1.40"
+    },
+    "maps": [
+      {
+        "game_id": "233492"
+      },
+      {
+        "game_id": "233493"
+      },
+      {
+        "game_id": "233494"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/28",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "G2 Esports",
+          "date": "2025/09/25",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/09/17",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Xi Lai Gaming",
+          "date": "2025/09/12",
+          "win": true
+        },
+        {
+          "result": "3\n\t\t\t\t\t\t\t\t1",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/08/31",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "GIANTX",
+          "date": "2025/09/27",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "MIBR",
+          "date": "2025/09/26",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "T1",
+          "date": "2025/09/18",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "G2 Esports",
+          "date": "2025/09/14",
+          "win": true
+        },
+        {
+          "result": "0\n\t\t\t\t\t\t\t\t2",
+          "opponent": "Natus Vincere",
+          "date": "2025/08/24",
+          "win": false
+        }
+      ]
+    },
+    "h2h": [
+      {
+        "event": "Masters Toronto 2025",
+        "score": "2\n\t\t\t\t\t\t\t\t0",
+        "date": "2025/06/07"
+      },
+      {
+        "event": "VCT 24: Masters Madrid",
+        "score": "2\n\t\t\t\t\t\t\t\t1",
+        "date": "2024/03/17"
+      },
+      {
+        "event": "GXR IN Invitational",
+        "score": "3\n\t\t\t\t\t\t\t\t1",
+        "date": "2022/11/20"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vlr.gg/542276/mibr-vs-drx-valorant-champions-2025-lr2",
+    "match_id": "542276",
+    "event_name": null,
+    "event_series": null,
+    "patch": null,
+    "team1": "MIBR",
+    "team2": "DRX",
+    "team1_score": 1,
+    "team2_score": 2,
+    "winner": 2,
+    "format": "Bo3",
+    "date": "2025-09-29 12:20:00",
+    "picks_bans": "MIBR ban Abyss; DRX ban Corrode; MIBR pick Sunset; DRX pick Ascent; MIBR ban Haven; DRX ban Lotus; Bind remains",
+    "betting_odds": {
+      "odds_source_1": "1.92",
+      "odds_source_2": "2.06"
+    },
+    "maps": [
+      {
+        "game_id": "233489"
+      },
+      {
+        "game_id": "233490"
+      },
+      {
+        "game_id": "233491"
+      }
+    ],
+    "player_stats": {
+      "team1": [],
+      "team2": []
+    },
+    "team_history": {
+      "team1": [
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/28",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Heretics",
+          "date": "2025/09/26",
+          "win": true
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Rex Regum Qeon",
+          "date": "2025/09/22",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/18",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Bilibili Gaming",
+          "date": "2025/09/15",
+          "win": true
+        }
+      ],
+      "team2": [
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t1",
+          "opponent": "G2 Esports",
+          "date": "2025/09/27",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "FNATIC",
+          "date": "2025/09/25",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/21",
+          "win": true
+        },
+        {
+          "result": "1\n\t\t\t\t\t\t\t\t2",
+          "opponent": "NRG",
+          "date": "2025/09/17",
+          "win": false
+        },
+        {
+          "result": "2\n\t\t\t\t\t\t\t\t0",
+          "opponent": "Team Liquid",
+          "date": "2025/09/13",
+          "win": true
+        }
+      ]
+    },
+    "h2h": []
+  }
+]
