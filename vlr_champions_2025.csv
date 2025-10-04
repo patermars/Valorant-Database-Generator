@@ -31,3 +31,5 @@ match_id,date,event_name,event_series,patch,team1,team2,team1_score,team2_score,
 542269,2025-09-28 12:20:00,,,,MIBR,NRG,1,2,2,Bo3,0.8,0.8
 542277,2025-09-29 09:00:00,,,,Paper Rex,Team Heretics,2,1,1,Bo3,0.8,0.6
 542276,2025-09-29 12:20:00,,,,MIBR,DRX,1,2,2,Bo3,0.6,0.6
+542270,2025-10-03 07:00:00,,,,FNATIC,NRG,0,2,2,Bo3,0.8,0.8
+542278,2025-10-03 09:35:00,,,,DRX,Paper Rex,2,0,1,Bo3,0.6,0.8

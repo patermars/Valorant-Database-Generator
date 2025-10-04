@@ -263,11 +263,14 @@ class VLRScraper:
         if max_matches:
             match_urls = match_urls[:max_matches]
         print(f"Found {len(match_urls)} matches to scrape")
+        i=0
         for url in match_urls:
+            print("Link no.: ",i)
             match_data = await self.scrape_match(url)
             if match_data:
                 self.data.append(match_data)
                 await asyncio.sleep(1)
+            i+=1
         return self.data
 
     def save_to_json(self, filename: str = 'vlr_matches.json'):
@@ -314,7 +317,7 @@ async def main():
     async with async_playwright() as playwright:
         await scraper.init_browser(playwright)
         event_url = "https://www.vlr.gg/event/matches/2283/valorant-champions-2025"
-        await scraper.scrape_event(event_url, max_matches=1)
+        await scraper.scrape_event(event_url, max_matches=50)
         scraper.save_to_json('vlr_champions_2025.json')
         df = scraper.to_dataframe()
         df.to_csv('vlr_champions_2025.csv', index=False)
